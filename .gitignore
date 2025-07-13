@@ -1,5 +1,8 @@
 # Environment variables
 .env
+old/
+claude.md 
+easywriting.site_files/
 .env.local
 .env.development.local
 .env.test.local
